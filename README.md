@@ -3,9 +3,9 @@
 <h3 align="center">A Full Stack Developer-MERN</h3>
 <h4 align="center">I am a programmer. I have recently done my B.Sc in Computer Science & Engineering. I like to share my knowledge with others. Currently, I am looking for a job and love teamwork. I have done multiple front and backend projects.</h4>
 
-- 🔭 I’m currently working on [Portfolio]([https://skfrontportfolio.netlify.app/](https://metrimony-7df38.web.app/))
+- 🔭 I’m currently working [on](https://metrimony-7df38.web.app/)
 
-- 👨‍💻 All of my projects are available at [https://skfrontportfolio.netlify.app/](https://skfrontportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [here](https://skfrontportfolio.netlify.app/)
 
 - 💬 Ask me about **Express,React,HTML,CSS,Bootstrape,Node,Express,Java,Tailwind,MongoDB**
 
